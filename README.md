@@ -6,4 +6,4 @@
   <img src="https://img.shields.io/badge/Engine-AI--First-orange?style=for-the-badge&logo=openai&logoColor=white" alt="AI First">
 </p>
 
-<p align="center"Проектирую и собираю веб-сервисы, скрипты и инфраструктурные утилиты, используя весь потенциал современных ИИ.</p>
+<p align="center">Проектирую и собираю веб-сервисы, скрипты и инфраструктурные утилиты, используя весь потенциал современных ИИ.</p>
